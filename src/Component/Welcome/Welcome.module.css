@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    margin-top: 0.7rem;
+    
+}
+.container p{
+    
+    padding: 0.5rem;
+    border-radius: 15px;
+    align-items: right;
+}
+.premiumfeature{
+    
+    display: flex;
+    justify-content: space-between;
+}

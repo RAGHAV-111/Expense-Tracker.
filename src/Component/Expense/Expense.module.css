@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+.content form {
+    background-color: aquamarine;
+    width: 50%;
+    border-radius: 20px;
+    box-sizing: border-box;
+    font-family: 'Brush Script MT', cursive;
+    border-style: double;
+    text-align: center;
+    padding: 1rem;
+    font-size: 30px;
+}

@@ -1,0 +1,41 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 214, 252, 0.164);
+    width: 100%;
+    height: 100vh;
+}
+.box{
+    width: 30%;
+    margin:1rem;
+    
+}
+.title{
+    text-align: center;
+    font-size: 2.25rem;
+}
+.submitbtn{
+    border-radius: 2rem;
+}
+.loginorsignup{
+    
+    text-align: center;
+    border: 2px solid;
+    border-radius: 1rem;
+    border: 1px solid rgb(0, 255, 42);
+    margin:  15px 0 10px 0;
+    cursor: pointer;
+    font-size: 18px;
+    background-color: transparent;
+    padding: 5px 0;
+    width: 100%;
+    color: #198754;
+}
+.forgot{
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+}
